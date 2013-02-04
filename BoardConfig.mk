@@ -26,7 +26,7 @@ TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
 TARGET_KERNEL_CONFIG := cyanogenmod_n8010_defconfig
 
 # assert
-TARGET_OTA_ASSERT_DEVICE := c0,p4notewifi,p4notewifiww,n8010,GT-N8010
+TARGET_OTA_ASSERT_DEVICE := c0,p4notewifi,p4notewifiww,p4notewifixx,n8010,GT-N8010
 
 #Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n8010/bluetooth
